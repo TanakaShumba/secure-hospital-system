@@ -1,31 +1,17 @@
-# Secure Hospital Management System
+# secure-hospital-system
 
-## Description
-This Python project is a simple and secure hospital management system. It allows adding and viewing patient records while storing data in a secure JSON file. Passwords can be hashed if authentication is added.
+## Purpose
+Python-based hospital management system with secure patient data handling and access control.
 
 ## Features
-- Add new patient records
-- View patient records
-- Securely store data in JSON format
-- Demonstrates basic data security with password hashing
+- Key features and functionalities of the project
 
-## Requirements
-- Python 3.x
+## Installation / Usage
+- How to install and run the project
+- Example usage if applicable
 
-## How to Run
-1. Clone the repository:
-```
-git clone https://github.com/TanakaShumba/secure-hospital-system.git
-```
-2. Navigate to the folder:
-```
-cd secure-hospital-system
-```
-3. Run the program:
-```
-python hospital_system.py
-```
+## Tech Stack
+- Python, Libraries, Tools used
 
 ## Notes
-- This project is for educational purposes.
-- Can be extended with authentication, encrypted storage, and networked databases.
+- Any special notes or warnings
